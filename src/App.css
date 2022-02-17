@@ -1,0 +1,10 @@
+.app-wrapper {
+  margin: 0 auto;
+  width: 80vw;
+  height: 100vh;
+  background: linear-gradient(0deg, #0938a3,#90a8ce,#c0cfde);
+}
+
+.main {
+  display: flex;
+}

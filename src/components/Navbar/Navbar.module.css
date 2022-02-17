@@ -1,0 +1,23 @@
+.nav {
+  padding-top: 2vh;
+  height: 90vh;
+  width: 15vw;
+  background: linear-gradient(0deg, #80a5ce,#90a8ce,#c0cfde);
+}
+
+.nav a {
+  text-decoration: none;
+}
+.item {
+  margin-bottom: 10px;
+  margin-left: 5%;
+}
+
+.item a {
+  color: white;
+}
+
+.item a.active{
+  color: gold;
+  margin-left: 5%;
+}

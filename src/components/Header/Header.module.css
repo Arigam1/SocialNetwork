@@ -1,0 +1,7 @@
+.header {
+  height: 8vh;
+  background: linear-gradient(90deg, #1678f3,#0099ba,#1678f3);
+}
+.header img {
+  height: 50px;
+}
