@@ -13,10 +13,10 @@
 }
 
 .item a {
-  color: white;
+  color: black;
 }
 
 .item a.active{
-  color: gold;
+  color: blue;
   margin-left: 5%;
 }
