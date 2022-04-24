@@ -6,6 +6,8 @@ let reducers = combineReducers({
     profilePage: profileReducer,
     dialogsPage: dialogsReducer,
 })
-let store = createStore(reducers)
+let store = createStore(reducers);
+
+window.store= store;
 
 export default store;
